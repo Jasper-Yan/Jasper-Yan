@@ -1,7 +1,7 @@
 ## Hi there 👋
-✨ I'm Dong Yan, a Ph.D. student at the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.
+✨ I'm Dong Yan ✦ 颜冬, a Ph.D. student at the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.
 
-🎓 I'm supervised by [Tieniu Tan](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129881.html) and [Tim Liang](https://liangjian.xyz/).
+🎓 I'm supervised by [Tieniu Tan](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129881.html) and [Jian Liang](https://liangjian.xyz/).
 
 🔭 My research focuses on unsupervised reasoning and trustworthy AI.
 
