@@ -1,5 +1,11 @@
 ## Hi there 👋
+✨ I'm Dong Yan, a Ph.D. student at the National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences.
 
+🎓 I'm supervised by [Tieniu Tan](https://ia.cas.cn/rcdw/jcqn/202404/t20240422_7129881.html) and [Tim Liang](https://liangjian.xyz/)
+
+🔭 My research focuses on unsupervised reasoning and trustworthy AI.
+
+📫 Feel free to drop me an email (yandong203519🌀gmail.com) if you're interested.
 <!--
 **Jasper-Yan/Jasper-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
