@@ -5,7 +5,7 @@
 
 🔭 My research focuses on unsupervised reasoning and trustworthy AI.
 
-📫 Feel free to drop me an email (yandong203519🌀gmail.com) if you're interested.
+📫 Feel free to drop me an email (yandong2025🌀ia.ac.cn) if you're interested.
 <!--
 **Jasper-Yan/Jasper-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
